@@ -21,9 +21,17 @@ Se busca realizar un aplicativo web con la capacidad de manejo de inventario ade
 
 - Generar un historial con la hora y salida de la mercancía en las bodegas.
 
-###Planteamiento Del Problema:
+### Plantamiento Del Problema
+
 Anteriormente la empresa maneja en ingreso y salida en diferentes libros los cuales
 están en cada una de las bodegas y esto no permite tener un control exacto del
 inventario en bodega, generando errores a la hora de generar las ventas ya que o
 no se encuentra el producto que el cliente necesita o este se encuentra en otra
 bodega.
+
+### Justificacion
+
+El aplicativo mejorara la trazabilidad en la captación de información de sus
+empleados y el cargo al que responde y además se llevara un control sobre el
+ingreso y la salida de materia de sus diferentes bodegas con un código y hora del
+ingreso o despacho de dichos productos
