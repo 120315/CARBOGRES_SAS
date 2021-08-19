@@ -1,6 +1,8 @@
 # CARBOGRES_SAS
 PROYECTO 
-![Imagen1](https://user-images.githubusercontent.com/80849458/130134744-0db27705-9130-40dc-8787-3ff4209f684d.png)
+
+![WhatsApp Image 2021-08-12 at 3 33 09 PM (1)](https://user-images.githubusercontent.com/80849458/130136480-ceb4a8bf-7023-4dab-9c50-a7e1ab1a3a0c.jpeg)
+
 
 
 ### Introducción
